@@ -1,8 +1,8 @@
-# Nebula Plugin – Android Performance & Gaming Optimization
+Lanzzx Projects – Android Performance & Gaming Optimization
 
-A performance-focused plugin designed to enhance device efficiency, stability, and responsiveness across various SoCs.
+A collection of Android optimization projects focused on gaming, responsiveness, stability, and modern user experience across various devices and chipsets.
 
-Nebula provides a balanced approach between performance and battery life, with dynamic system optimizations and gaming-focused improvements.
+This repository contains multiple projects such as Nebula, SpaceOne, and other future optimization tools built for AxManager.
 
 ---
 
@@ -11,31 +11,24 @@ Nebula provides a balanced approach between performance and battery life, with d
 1. Install and set up AxManager
 2. Enable Wireless Debugging and activate AxManager
 3. Download the latest release
-4. Import the plugin via AxManager
+4. Import the project via AxManager
 5. Apply your preferred configuration
 
 ---
 
-🧠 Concept
+🧠 About
 
-Nebula is built to deliver consistent performance by optimizing system behavior during different workloads, especially gaming and heavy usage.
+These projects are designed to improve system responsiveness, gaming performance, touch latency, and overall device experience while maintaining compatibility and stability.
 
-Instead of static tweaks, it focuses on adaptive configurations to maintain stability, responsiveness, and efficiency.
+The focus is lightweight optimization, adaptive behavior, and modern UI design instead of unsafe or aggressive tweaks.
 
 ---
 
 📦 Releases
 
-All features, updates, and changes are documented in the Releases section.
+All updates, features, and changelogs are available in the Releases section.
 
-👉 Download the latest version from the Releases page.
-
----
-
-📌 Notes
-
-- This project is still under development
-- Behavior may vary depending on device and SoC
+👉 Download the latest version from Releases.
 
 ---
 
